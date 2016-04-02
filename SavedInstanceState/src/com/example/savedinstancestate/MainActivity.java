@@ -3,7 +3,11 @@ package com.example.savedinstancestate;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
-
+/**
+ * savedInstanceState »úÖÆÑÝÊ¾
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override

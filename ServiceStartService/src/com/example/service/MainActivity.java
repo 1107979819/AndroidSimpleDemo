@@ -7,7 +7,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import com.example.startservice.R;
-
+/**
+ * service µ÷ÓÃ£ºbindService
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 	private Button btn1,btn2;
 	@Override

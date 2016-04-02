@@ -7,7 +7,11 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
-
+/**
+ * Activity生命周期演示
+ * @author WYL
+ *
+ */
 public class ActivityA extends Activity {
 	private Button btn;
 	@Override

@@ -21,6 +21,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * LruCacheµÄÓÃ·¨
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 
 	private int count;

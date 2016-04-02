@@ -14,6 +14,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+/**
+ * service µ÷ÓÃ£ºbindService
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 	private Button btn1,btn2,btn3;
 	private ServiceConnection serviceCon;

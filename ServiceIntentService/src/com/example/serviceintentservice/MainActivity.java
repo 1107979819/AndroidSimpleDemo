@@ -4,7 +4,11 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
-
+/**
+ * IntentService—› æ
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override

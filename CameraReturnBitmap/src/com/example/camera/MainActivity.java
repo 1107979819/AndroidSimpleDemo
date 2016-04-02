@@ -12,7 +12,11 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 import com.example.camerabitmap.R;
-
+/**
+ * 调用系统摄像机拍照返回Bitmap
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 	private Button btn ;
 	private ImageView imageView;

@@ -6,7 +6,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
-
+/**
+ * AsyncTask ÓÃ·¨
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 	
 	String url1 = "http://img1.bitautoimg.com/bitauto/2012/08/13/41cf2a1a-50da-41aa-a5e6-9673e74bc937.jpg";

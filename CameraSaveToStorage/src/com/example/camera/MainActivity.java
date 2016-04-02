@@ -15,7 +15,11 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 import com.example.camerasave.R;
-
+/**
+ * 调用系统摄像机拍照保存到内存卡
+ * @author WYL
+ *
+ */
 public class MainActivity extends Activity {
 	private Button btn ;
 	private ImageView imageView;

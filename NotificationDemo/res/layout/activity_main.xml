@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+ 
+
+    <Button
+        android:id="@+id/btn_createnoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="createNoti" />
+
+    <Button
+        android:id="@+id/btn_updatenoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="updateNoti" />
+   <Button
+        android:id="@+id/btn_newact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="newActivity" />
+</LinearLayout>
